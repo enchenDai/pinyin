@@ -1,0 +1,25 @@
+{
+  "name": "pinyin",
+  "homepage": "https://github.com/enchenDai/pinyin",
+  "main": [
+        "pinyin_dict_firstletter.js",
+        "pinyin_dict_notone.js",
+        "pinyin_dict_polyphone.js",
+        "pinyin_dict_withtone.js",
+        "pinyinUtil.js"
+    ],
+  "authors": [
+    "enchen <jack.dai@huilianyi.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
